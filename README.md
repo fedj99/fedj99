@@ -4,6 +4,7 @@
 - 📫 How to reach me:
   - Twitter: @fedj99
   - Email: fmantova@student.ethz.ch
+  - Youtube: [fedj99](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 <!---
 fedj99/fedj99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
